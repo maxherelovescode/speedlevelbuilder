@@ -1,0 +1,2 @@
+C:\Users\maxhe\OneDrive\Documents\dev\CaltexGames\SpeedLevelBuilder\SpeedLevelBuilder\obj\Release\SpeedLevelBuilder.csproj.AssemblyReference.cache
+C:\Users\maxhe\OneDrive\Documents\dev\CaltexGames\SpeedLevelBuilder\SpeedLevelBuilder\obj\Release\SpeedLevelBuilder.csproj.SuggestedBindingRedirects.cache
