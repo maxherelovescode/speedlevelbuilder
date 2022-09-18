@@ -3,9 +3,9 @@ C:\Users\maxhe\OneDrive\Documents\dev\CaltexGames\SpeedLevelBuilder\SpeedLevelBu
 C:\Users\maxhe\OneDrive\Documents\dev\CaltexGames\SpeedLevelBuilder\SpeedLevelBuilder\bin\Debug\SpeedLevelBuilder.exe.config
 C:\Users\maxhe\OneDrive\Documents\dev\CaltexGames\SpeedLevelBuilder\SpeedLevelBuilder\bin\Debug\SpeedLevelBuilder.exe
 C:\Users\maxhe\OneDrive\Documents\dev\CaltexGames\SpeedLevelBuilder\SpeedLevelBuilder\bin\Debug\SpeedLevelBuilder.pdb
-C:\Users\maxhe\OneDrive\Documents\dev\CaltexGames\SpeedLevelBuilder\SpeedLevelBuilder\obj\Debug\SpeedLevelBuilder.Form1.resources
 C:\Users\maxhe\OneDrive\Documents\dev\CaltexGames\SpeedLevelBuilder\SpeedLevelBuilder\obj\Debug\SpeedLevelBuilder.Properties.Resources.resources
 C:\Users\maxhe\OneDrive\Documents\dev\CaltexGames\SpeedLevelBuilder\SpeedLevelBuilder\obj\Debug\SpeedLevelBuilder.csproj.GenerateResource.cache
 C:\Users\maxhe\OneDrive\Documents\dev\CaltexGames\SpeedLevelBuilder\SpeedLevelBuilder\obj\Debug\SpeedLevelBuilder.csproj.CoreCompileInputs.cache
 C:\Users\maxhe\OneDrive\Documents\dev\CaltexGames\SpeedLevelBuilder\SpeedLevelBuilder\obj\Debug\SpeedLevelBuilder.exe
 C:\Users\maxhe\OneDrive\Documents\dev\CaltexGames\SpeedLevelBuilder\SpeedLevelBuilder\obj\Debug\SpeedLevelBuilder.pdb
+C:\Users\maxhe\OneDrive\Documents\dev\CaltexGames\SpeedLevelBuilder\SpeedLevelBuilder\obj\Debug\SpeedLevelBuilder.Startup.resources
